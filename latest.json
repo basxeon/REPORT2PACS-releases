@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "url": "https://github.com/basxeon/REPORT2PACS-releases/releases/download/v0.2.0/REPORT2PACS-Setup.exe",
+  "sha256": "159e7d4da2574393bf76442064629e45d78ab23000e450f6392433fcd0d36915",
+  "signature": "dBdseGEYMsGBwQUwtlZgD4mXHp+a/Z+WvJTdCpIw5a92z/srDvFhrbLZ7jtJecrLsE434Dxm9xiWsixYnM0WBA==",
+  "notes": "เพิ่มระบบ license และอัปเดตอัตโนมัติ"
+}
